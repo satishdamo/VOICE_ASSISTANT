@@ -12,7 +12,7 @@ from starlette.websockets import WebSocketState
 
 
 # Ensure FFmpeg is available
-os.environ["PATH"] += os.pathsep + r"C:\ffmpeg\bin"
+os.environ["PATH"] += os.pathsep + os.path.join(os.getcwd(), "ffmpeg-bin")
 
 load_dotenv()
 app = FastAPI()
