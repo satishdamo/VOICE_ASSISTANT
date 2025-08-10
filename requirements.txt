@@ -1,0 +1,6 @@
+fastapi[standard-no-fastapi-cloud-cli]
+python-dotenv
+openai
+aiofiles
+pydub
+ffmpeg-python

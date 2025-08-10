@@ -1,0 +1,4 @@
+A complete working setup for your mobile-friendly GenAI voice assistant with:
+
+- ✅ FastAPI backend: Handles audio streaming, transcription, GenAI response, and TTS(Text to Speech) synthesis
+- ✅ React frontend: Mobile-optimized UI with push-to-talk functionality

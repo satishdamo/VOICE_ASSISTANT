@@ -1,0 +1,6 @@
+reference.txt
+.env
+myvenv/
+__pycache__/
+audio_logs/
+backup_code.py
